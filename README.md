@@ -115,7 +115,7 @@ languages  : English (Fluent) | Hindi (Fluent) | Marathi (Fluent)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaneshSKumbhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaneshSKumbhar&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshSKumbhar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>

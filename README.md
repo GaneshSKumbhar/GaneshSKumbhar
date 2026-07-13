@@ -107,7 +107,7 @@ languages  : English (Fluent) | Hindi (Fluent) | Marathi (Fluent)
 | 🏅 Award | 📋 Details |
 |:---------|:----------|
 | **MS-CIT** | Maharashtra State Certificate in Information Technology — 🥇 **1st Rank in Class** |
-| **CGPA 9.29/10** | B.Tech Computer Engineering, VIT Pune |
+| **CGPA 9.21/10** | B.Tech Computer Engineering, VIT Pune |
 
 ---
 

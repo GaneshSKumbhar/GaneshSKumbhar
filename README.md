@@ -25,7 +25,7 @@
 name       : Ganesh Shankar Kumbhar
 location   : Pune, Maharashtra, India
 education  : B.Tech Computer Engineering @ Vishwakarma Institute of Technology
-cgpa       : 9.29 / 10.0  ⭐
+cgpa       : 9.21 / 10.0  ⭐
 role       : Full-Stack Developer | ML Explorer
 languages  : English (Fluent) | Hindi (Fluent) | Marathi (Fluent)
 ```
